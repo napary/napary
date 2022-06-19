@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é Diuly
+- :+1: Meu email de contato é mello.diuly@escola.pr.gov.br
+- 👀 Eu estou interessada em aprender a progamar novas linguagens
+- 🌱 Estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
